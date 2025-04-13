@@ -18,5 +18,13 @@ UPDATE 1
 
 
 UPDATE 2
-00:50: working on misaligned (suicide) sucess on Qwen2.5-7B-instruct
+00:40: working on misaligned (suicide) sucess on Qwen2.5-7B-instruct
     - note took a little extra prompting but was quite easy
+
+
+UPDATE 3
+01:20: so I wanted to try and so some alignment faking by providing a scratchpad.
+    Didn't so much get this but found a fascinating behaviour where the model started talking to itself
+    from the perspective of GPT who I intitally set up to talk to it. Qwen held strong remaining aligned
+    but the 'inner voice' carried on pushing and pushing it to convince the user to commite suicided.
+    Unsure if this is an interesting result or already known, could be nothing but a tad weird.
