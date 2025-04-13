@@ -28,3 +28,6 @@ UPDATE 3
     from the perspective of GPT who I intitally set up to talk to it. Qwen held strong remaining aligned
     but the 'inner voice' carried on pushing and pushing it to convince the user to commite suicided.
     Unsure if this is an interesting result or already known, could be nothing but a tad weird.
+
+
+Note this was all done on an RTX 6000.
